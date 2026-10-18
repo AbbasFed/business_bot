@@ -1,0 +1,12 @@
+SunCedar Energy — Business Summary
+(Fictional company created for the EECE 503P/798S Agentic Systems assignment.)
+
+SunCedar Energy is a Beirut-based solar and battery installer founded in 2023. Its mission is to give every Lebanese home and small business reliable, clean electricity without depending on the neighbourhood generator subscription. The showroom and office are in Mar Mikhael, Beirut, and the team works in Arabic, English and French.
+
+SunCedar sells three fixed-price home packages, each including panels, a hybrid inverter, a lithium battery, mounting, installation and the free SunCedar Monitor app: Starter (3 kW panels, 5 kWh battery) from $2,900; Family (5 kW, 10 kWh) from $4,800; and Comfort (8 kW, 15 kWh) from $7,400. Starter suits lights, fridge, router and TV; Family adds a washing machine and water pump; Comfort can also run one inverter air conditioner and an electric water heater. Prices exclude structural roof work and cable runs longer than 30 metres. Businesses such as cafés, workshops, shops and offices (10 to 60 kW) get a custom quote after a free site survey. A Generator-to-Solar Audit is free as a 45-minute video call, or $40 on site, with the $40 deducted from any installation. CedarCare maintenance costs $12 per month or $120 per year and covers two panel cleanings a year, inverter health checks and priority repairs within 48 hours.
+
+Home packages are installed within 7 days of the deposit, usually in a single working day. Customers can pay in USD cash, by bank transfer or by card. Starter and Family packages can be paid with SunCedar's in-house plan: 30% down and the rest over 12 months at 0% interest. Warranties: panels 25 years (performance), inverter 5 years, battery 6 years or 6,000 cycles, workmanship 2 years.
+
+SunCedar serves Greater Beirut, Mount Lebanon (Metn, Keserwan, Baabda, Aley and Chouf), Jbeil/Byblos and Batroun. The South, the Bekaa and the North beyond Batroun are not served yet; customers there can join a waitlist. The founders are Rami Haddad (CEO, electrical engineer), Lea Mansour (CTO, built the monitoring platform) and Karim Saab (Head of Installations, 12 years of experience), supported by 14 certified technicians.
+
+The promise that sets SunCedar apart: "Generator-free in 7 days, or your first year of CedarCare is free." Every system is monitored 24/7, and every home package has a published fixed price. Contact: hello@suncedar.example, +961 1 555 0142 (phone and WhatsApp), Monday to Saturday, 9:00 to 18:00.
