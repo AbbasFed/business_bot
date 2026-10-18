@@ -3,6 +3,9 @@
 **EECE 503P/798S Agentic Systems · C3 Introduction to Agents**
 **Author:** Abbas Yassine
 
+**🎥 Demo video:** https://drive.google.com/file/d/1MmAZtT-ciKWVsWdmj01i-tHjKDFCy0pL/view
+
+
 A chatbot that represents **SunCedar Energy**, a fictional solar and battery installer in Beirut. The agent,
 **Abbas**, answers questions from the company's PDF profile and summary, routes every message to the right handling
 path, collects sales leads, and logs feedback and questions it cannot answer through tool calls. It runs on the
